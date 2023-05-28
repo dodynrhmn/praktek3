@@ -10,4 +10,8 @@ package praktek3;
  */
 public class Sepeda {
     
+    String merk;
+    String warna;
+    Double harga;
+    
 }
